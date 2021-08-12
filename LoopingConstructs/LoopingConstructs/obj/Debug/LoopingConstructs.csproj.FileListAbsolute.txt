@@ -1,0 +1,7 @@
+D:\Corporate\Vinsys\JK Tech\C#\Demos\Chapter4-Repo\Chapter4-Repo\LoopingConstructs\LoopingConstructs\bin\Debug\LoopingConstructs.exe.config
+D:\Corporate\Vinsys\JK Tech\C#\Demos\Chapter4-Repo\Chapter4-Repo\LoopingConstructs\LoopingConstructs\bin\Debug\LoopingConstructs.exe
+D:\Corporate\Vinsys\JK Tech\C#\Demos\Chapter4-Repo\Chapter4-Repo\LoopingConstructs\LoopingConstructs\bin\Debug\LoopingConstructs.pdb
+D:\Corporate\Vinsys\JK Tech\C#\Demos\Chapter4-Repo\Chapter4-Repo\LoopingConstructs\LoopingConstructs\obj\Debug\LoopingConstructs.csprojAssemblyReference.cache
+D:\Corporate\Vinsys\JK Tech\C#\Demos\Chapter4-Repo\Chapter4-Repo\LoopingConstructs\LoopingConstructs\obj\Debug\LoopingConstructs.csproj.CoreCompileInputs.cache
+D:\Corporate\Vinsys\JK Tech\C#\Demos\Chapter4-Repo\Chapter4-Repo\LoopingConstructs\LoopingConstructs\obj\Debug\LoopingConstructs.exe
+D:\Corporate\Vinsys\JK Tech\C#\Demos\Chapter4-Repo\Chapter4-Repo\LoopingConstructs\LoopingConstructs\obj\Debug\LoopingConstructs.pdb
